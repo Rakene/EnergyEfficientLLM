@@ -9,8 +9,8 @@ All of our code to run the experiments is in Energy_EfficientBERT_Inference.ipyn
 5. How to Run:
 Run each cell in Energy_EfficientBERT_Inference.ipynb from top to bottom sequentially. This will run all experiments and produce graphs from our paper.
 6. Results:
-![Baseline](./Baseline.png, "Baseline")
-![Energy](./Energy.png, "Energy")
-![GLUE](./GLUE.png, "GLUE")
-![Throughput](./Throughput.png, "Throughput")
+![img](./Baseline.png)
+![img](./Energy.png)
+![img](./GLUE.png)
+![img](./Throughput.png)
 
